@@ -8,14 +8,14 @@
     align-items: center;
 }
 
-a > span {
+a>span {
     margin: 0 30px;
     font-size: 1.3rem;
     cursor: pointer;
     color: white;
 }
 
-a > span:hover {
+a>span:hover {
     color: red;
 }
 
